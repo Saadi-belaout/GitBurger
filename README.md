@@ -1,4 +1,4 @@
-###Bienvenue chez GitBurger !
+Bienvenue chez GitBurger !
 
 Construisez votre propre hamburger en utilisant des fichiers texte pour chaque couche.
 Ingrédients disponibles
